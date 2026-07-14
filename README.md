@@ -14,14 +14,13 @@ You May Access Interractive Dashboard Here:
 ---
 
 ## Project Background and Overview
-This project aimed at an operational analytics pipeline to evaluate primary care appointment access across London Integrated Care Boards (ICBs). Primary healthcare networks across major metropolitan areas face continuous operational pressure to balance same day triage requests, manage extended wait times, and incorporate digital care delivery.
-
-Using millions of raw activity records from NHS public datasets, the project builds a relational data pipeline in SQL Server to clean, audit, transform, and summarize health records into dimensional tables. These aggregated tables are opened in Power BI Desktop to construct an interactive executive dashboard. This dashboards tracks appointment accessibility, lead times, and delivery modes across London healthcare networks for the month of May of 2026.
+This project aimed at an operational analytics pipeline to evaluate primary care appointment access across London Integrated Care Boards (ICBs).
+Using millions of raw activity records from NHS public datasets, I built a relational data pipeline in SQL Server and cleaned, audited, transformed, and summarizeed health records for may 2026 into dimensional tables. These aggregated tables are opened in Power BI Desktop to construct an interactive executive dashboard. This dashboard tracks appointment accessibility, lead times, and delivery modes across London healthcare networks for the month of May 2026.
 
 ---
 
 ## Executive Summary
-London primary care maintains same day access capacity, achieving this by leaning heavily on remote consultation channels to maintain daily operational work.
+London primary care maintains the same day access for patients, achieving this by leaning heavily on remote consultation channels to maintain daily operational work.
 
 ### Key Operational Highlights
 * **High Immediate Access:** 42.8% of primary care appointments in London are completed on the same day as booking. This proves solid triage capacity for urgent care
