@@ -11,6 +11,12 @@
 
 You May Access Interractive Dashboard Here:
 ### https://app.powerbi.com/view?r=eyJrIjoiMmE0Mjk0YWUtMmNlMi00NTA2LTg2ZTgtMzBmNzkzMmZhMWJhIiwidCI6ImQ5NzRiNGRmLWVlYzItNDMzZS1hOTE4LTNmZTE4NDEyNzM1ZiIsImMiOjh9
+
+### Datasets used:
+English Indices of Deprivation (IMD): https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019
+NHS Primary Care Appointments Data: https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice?__cf_chl_f_tk=ppq91JhbzoVMe8JYUZaNgEYIMSiORKOT.onSPtATh70-1784057919-1.0.1.1-fE5yMPfZo7fMFORSvrcoeEZDHwl8NyXoAr3UkmlyWjg
+NHS England General Practice & ODS Code Mappings: https://digital.nhs.uk/services/organisation-data-service
+
 ---
 
 ## Project Background and Overview
