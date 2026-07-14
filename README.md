@@ -12,16 +12,16 @@
 You May Access Interractive Dashboard Here:
 ### https://app.powerbi.com/view?r=eyJrIjoiMmE0Mjk0YWUtMmNlMi00NTA2LTg2ZTgtMzBmNzkzMmZhMWJhIiwidCI6ImQ5NzRiNGRmLWVlYzItNDMzZS1hOTE4LTNmZTE4NDEyNzM1ZiIsImMiOjh9
 
-### Datasets used:
-English Indices of Deprivation (IMD): https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019
-NHS Primary Care Appointments Data: https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice?__cf_chl_f_tk=ppq91JhbzoVMe8JYUZaNgEYIMSiORKOT.onSPtATh70-1784057919-1.0.1.1-fE5yMPfZo7fMFORSvrcoeEZDHwl8NyXoAr3UkmlyWjg
-NHS England General Practice & ODS Code Mappings: https://digital.nhs.uk/services/organisation-data-service
-
 ---
 
 ## Project Background and Overview
 This project aimed at an operational analytics pipeline to evaluate primary care appointment access across London Integrated Care Boards (ICBs).
 Using millions of raw activity records from NHS public datasets, I built a relational data pipeline in SQL Server and cleaned, audited, transformed, and summarizeed health records for may 2026 into dimensional tables. These aggregated tables are opened in Power BI Desktop to construct an interactive executive dashboard. This dashboard tracks appointment accessibility, lead times, and delivery modes across London healthcare networks for the month of May 2026.
+
+### Datasets used:
+English Indices of Deprivation (IMD): https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019  
+NHS Primary Care Appointments Data: https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice?__cf_chl_f_tk=ppq91JhbzoVMe8JYUZaNgEYIMSiORKOT.onSPtATh70-1784057919-1.0.1.1-fE5yMPfZo7fMFORSvrcoeEZDHwl8NyXoAr3UkmlyWjg  
+NHS England General Practice & ODS Code Mappings: https://digital.nhs.uk/services/organisation-data-service  
 
 ---
 
